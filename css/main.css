@@ -3091,7 +3091,9 @@ section,
   border: 1px solid color-mix(in srgb, var(--default-color), transparent 90%);
   margin-bottom: 20px;
   display: flex;
-  align-items: flex-start;
+  /* align-items: flex-start; */
+  align-items: center;
+  justify-content: center;
   transition: 0.3s;
 }
 
