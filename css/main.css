@@ -5306,3 +5306,13 @@ section,
     font-size: 14px;
   }
 }
+
+@media (max-width: 1199px) {
+  .navmenu ul {
+    display: block;
+    position: static;
+    box-shadow: none;
+    background: none;
+  }
+}
+
